@@ -1,0 +1,82 @@
+[
+	{
+		"type": "thememod",
+		"id": "color-primary",
+		"data": "#1e83f0"
+	},
+	{
+		"type": "thememod",
+		"id": "color-accent",
+		"data": "#1e83f0"
+	},
+	{
+		"type": "thememod",
+		"id": "color-body",
+		"data": "#647585"
+	},
+	{
+		"type": "thememod",
+		"id": "color-body",
+		"data": "#647585"
+	},
+	{
+		"type": "thememod",
+		"id": "color-header-background",
+		"data": "#222b38"
+	},
+	{
+		"type": "thememod",
+		"id": "color-navigation-text",
+		"data": "#ffffff"
+	},
+	{
+		"type": "thememod",
+		"id": "color-cta-text",
+		"data": "#ffffff"
+	},
+	{
+		"type": "thememod",
+		"id": "color-cta-background",
+		"data": "#222b38"
+	},
+	{
+		"type": "thememod",
+		"id": "color-footer-widgets-title",
+		"data": "#647585"
+	},
+	{
+		"type": "thememod",
+		"id": "color-footer-widgets-link",
+		"data": "#647585"
+	},
+	{
+		"type": "thememod",
+		"id": "color-footer-widgets-text",
+		"data": "#647585"
+	},
+	{
+		"type": "thememod",
+		"id": "color-footer-widgets-background",
+		"data": "#ffffff"
+	},
+	{
+		"type": "thememod",
+		"id": "color-copyright-link",
+		"data": "#647585"
+	},
+	{
+		"type": "thememod",
+		"id": "color-copyright-text",
+		"data": "#647585"
+	},
+	{
+		"type": "thememod",
+		"id": "color-copyright-background",
+		"data": "#ffffff"
+	},
+	{
+		"type": "thememod",
+		"id": "header_textcolor",
+		"data": "ffffff"
+	}
+]
